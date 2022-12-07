@@ -1,12 +1,3 @@
-/*
- * @Author: 仲春阳
- * @Date: 2021-11-26 09:08:03
- * @LastEditTime: 2021-11-29 13:22:24
- * @LastEditors: your name
- * @Description: 
- * 程序中蕴含着很多的道理，唯有大彻大悟者方能体会其中的奥妙。
- */
-// 屏幕适配 mixin 函数
 
 // * 默认缩放值
 const scale = {
